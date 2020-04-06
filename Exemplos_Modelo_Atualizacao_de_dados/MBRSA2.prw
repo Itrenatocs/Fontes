@@ -101,3 +101,4 @@ User Function BLegenda()
     BrwLegenda(cCadastro, cTitulo, aLegenda)
     
 Return
+
