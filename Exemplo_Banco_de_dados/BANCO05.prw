@@ -23,7 +23,7 @@ User Function BANCO05()
         MSExecAuto({|x,y| Mata010(x,y)}, aDados, 3) 
 
         If lMSErrorAuto
-            Alert("Ocorretam erros durante a operação")
+            Alert("Ocorreram erros durante a operação")
             MostraErro() 
 
             DisarmTransaction()

@@ -14,6 +14,7 @@ User Function BANCO03()
 
     // EXECUTAR AS QUERYS TSQUERY = DO TOPCONNECT - Acima - Consulta
     //EoF Final de Arquivo 
+    
         TCQuery cQuery New Alias "TMP"
 
         While ! TMP ->(Eof())

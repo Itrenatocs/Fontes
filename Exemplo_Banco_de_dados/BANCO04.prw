@@ -8,7 +8,7 @@ User Function BANCO04()
 
     DBSelectArea("SB1")
     SB1->(DBSetOrder(1))
-   SB1->(DBGoTo(1))   
+    SB1->(DBGoTo(1))   
 
     //Iniciar a Transação
     Begin Transaction 
